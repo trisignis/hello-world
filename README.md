@@ -1,2 +1,2 @@
 # hello-world
-Just a tutorial
+Just a tutorial - getting started learning R.
